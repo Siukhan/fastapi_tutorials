@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Harry Potter",
+        "genre": "friction",
+        "price": 15.0,
+        "book_id": "1"
+    },
+    {
+        "name": "The Great Gatsby",
+        "genre": "friction",
+        "price": 15.0,
+        "book_id": "2"
+    },
+    {
+        "name": "Frankenstein",
+        "genre": "friction",
+        "price": 10.0,
+        "book_id": "3"
+    },
+    {
+        "name": "Atomic Habits",
+        "genre": "non-friction",
+        "price": 30.0,
+        "book_id": "4"
+    },{
+        "name": "A Wild Sheep's Journey",
+        "genre": "friction",
+        "price": 15.0,
+        "book_id": "5"
+    }
+]
